@@ -33,7 +33,7 @@ export function AddThoughtForm(props) {
         aria-label="What's on your mind?"
         placeholder="What's on your mind?"
       />
-      <input type="submit" value="Add" />
+      <input type="submit" value="+" />
     </form>
   );
 }
